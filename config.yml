@@ -45,7 +45,7 @@ params:
         enabled: true
         title: Soggra 👋
         description: Ula
-        imageUrl: "/images/profile.jpg"
+        imageUrl: "/images/profile.png"
         imageTitle: Idan
         imageWidth: 200
         imageHeight: 200
